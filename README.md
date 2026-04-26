@@ -55,9 +55,9 @@ I don't just write code; I design the vision. My experience includes:
 ---
 
 ## 📊​ Stats
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=azbadger-dev&show_icons=true&theme=swift)<br/>
-![](https://streak-stats.demolab.com/?user=azbadger-dev&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=azbadger-dev&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Fabricio's GitHub stats](https://github-readme-stats.shion.dev/api?username=azbadger-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=azbadger-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=azbadger-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
